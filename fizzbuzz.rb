@@ -3,7 +3,7 @@
 
 def fizzbuzz(number)
   if number % 3 == 0 && number % 5 == 0
-  "FizzBuzz"
+    "FizzBuzz"
   elsif number % 3 == 0
     #if number is divisible by 3 and has no remainder
     "Fizz"
